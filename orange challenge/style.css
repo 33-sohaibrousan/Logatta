@@ -1,0 +1,27 @@
+li{
+    padding-bottom: 15px;
+}
+.fa-solid{
+    color: #28a745;
+
+}
+ul{
+    list-style: none;
+}
+.logo{
+    width: 160px;
+}
+button {
+    background-color: #f5390b; /* default color */
+    color: #fff;
+
+  }
+  
+  button.clicked {
+    background-color: #28a745; /* new color */
+  }
+  button.clicked {
+    background-color: #28a745; /* new color */
+  }
+   
+  
